@@ -5,4 +5,4 @@ def rec(a, b, i = a.length)
   rec(a, b, i)
 end
 
-rec[ on my way ], = [yaw ym no]
+rec[ 'on' 'my' 'way' ], => [ 'yaw' 'ym' 'no' ]
