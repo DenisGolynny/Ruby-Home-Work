@@ -6,8 +6,8 @@ def reverse(value)
   return reverse( value.slice(1..value.size) ) + value.slice(0)
 end
 
-puts "Array reverse: #{array}"
+puts "Nomber`s #{array}"
 puts reverse(array)
 
-puts "String reverse: #{str}"
+puts "Letter`s #{str}"
 puts reverse(str)
